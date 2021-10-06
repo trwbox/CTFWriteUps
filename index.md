@@ -15,9 +15,6 @@ title: CTFWriteUps
 </p>
 
 
-Hi, I'm Trent Walraven and I'm currently a student at Iowa Stat University, and need a nap. <div style="text-align: right"> your-text-here </div>
-
-
 
 [This is a test link](/competitions/SnykConCTF/Calculator/)
 
