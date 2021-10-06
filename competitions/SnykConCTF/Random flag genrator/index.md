@@ -1,0 +1,1 @@
+Given the script it looks like we need to take the random values given and reverse it to find the time used as a seed for the random number generator, then set the seed manually and run it find the final flag
