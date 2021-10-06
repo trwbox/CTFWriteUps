@@ -13,3 +13,6 @@ set to repeat 500 times
 Let it run til it crashed as the flag most likely would not be able to be parsed into an equation
 
 //Solved
+
+
+Pictures in my picture folder Need to complete the writing

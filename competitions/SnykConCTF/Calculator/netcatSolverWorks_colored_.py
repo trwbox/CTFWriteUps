@@ -45,7 +45,7 @@ for i in range(500):
     hackerString = "\nHACKING: " + str(i) + "% DONE!"
     s.send(str.encode(numString))
     print(Fore.GREEN + numString + hackerString + Style.RESET_ALL)
-    time.sleep(7.3)
+    time.sleep(1)
     newData = s.recv(1024)
     stringSocket = newData.decode('utf-8') 
     if i == 99:
