@@ -1,7 +1,6 @@
 ---
 layout: writeup
-title: NoStego
-competition: ALLES!2021
+title: NoStego + ALLES!2021
 ---
 
 # NoStego
