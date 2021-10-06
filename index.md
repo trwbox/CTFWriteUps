@@ -2,10 +2,11 @@
 layout: main
 title: CTFWriteUps
 ---
+# Hello
 
-# This will be a test header for the CTF Writeup Website
+<div style="text-align: right"> your-text-here </div>
 
-This is a test body for the above mentioned website
+Hi, I'm Trent Walraven and I'm currently a student at Iowa Stat University, and need a nap
 
 [This is a test link](/competitions/SnykConCTF/Calculator/)
 
