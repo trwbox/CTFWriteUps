@@ -75,5 +75,3 @@ There were still some missing letters though that I was unable to get right away
 ![contrasted](contrast_changed.png)
 
 After doing this I was able to find the flag to be ```ALLES!{why_solve_st3g0_wh3n_y0u_c4n_h4ve_crypto}```
-
-[back up a level](../)
