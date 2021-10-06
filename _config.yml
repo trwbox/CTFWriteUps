@@ -1,5 +1,12 @@
 theme: jekyll-theme-cayman
 
+title: CTFWriteUps
+email: test@test.com
+description: >-
+  A site I have to keep my CTFWriteUps centralized and easily viewable by anyone that is looking to see my work
+url: "ctfwriteups.trwbox.com"
+github_username: trwbox
+
 syntax-highlighting:
   enabled: true
   css: syntax.css
