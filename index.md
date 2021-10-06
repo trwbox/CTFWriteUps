@@ -4,9 +4,20 @@ title: CTFWriteUps
 ---
 # Hello
 
-<div style="text-align: right"> your-text-here </div>
 
-Hi, I'm Trent Walraven and I'm currently a student at Iowa Stat University, and need a nap
+
+
+<p style="text-align:right;">
+    Hi, I'm Trent Walraven and I'm currently a student at Iowa Stat University, and need a nap.
+    <span style="float:left;">
+        I have no clue with what I am doing with HTML
+    </span>
+</p>
+
+
+Hi, I'm Trent Walraven and I'm currently a student at Iowa Stat University, and need a nap. <div style="text-align: right"> your-text-here </div>
+
+
 
 [This is a test link](/competitions/SnykConCTF/Calculator/)
 
