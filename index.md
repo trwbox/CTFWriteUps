@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Home
+title: CTFWriteUps
 ---
 
 # This will be a test header for the CTF Writeup Website
