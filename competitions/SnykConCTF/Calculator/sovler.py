@@ -1,7 +1,17 @@
 from sympy import *
 
+#Using this to let the script work on anyone's machine
+import os
+dirname = os.path.dirname(__file__)
+filename = os.path.join(dirname, "equation.txt")
+
 # Have a file with a single equation to use as a test equation that I can parse and find the answer to
-f = open("/home/trwbox/Desktop/CTF Writeups/Work in Progress/SnykCon CTF/Calculator/equation.txt")
+f = open(filename)
+
+# Print out the file for easy comparison and seek to the beginning
+string = f.read()
+print(string)
+f.seek(0, 0)
 
 #Set a boolean value for while loop and a string for the values before the equals sign
 randomVal = true
