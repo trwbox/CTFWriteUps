@@ -19,13 +19,12 @@
     </header>
     
     <main id="content" class="main-content" role="main">
-      <div class="sidenav">
-        <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Clients</a>
-        <a href="#">Contact</a>
+      <div class="wrapper">
+        <div class="left"></div>
+        <div class="content">
+          {{ content }}
+        </div>
       </div>
-      {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}

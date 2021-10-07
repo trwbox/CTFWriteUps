@@ -108,3 +108,14 @@ $silver-chalice: #aaa;
     color: $string;
   }
 }
+
+.wrapper {
+  border: 1px solid blue;
+}
+.left {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 0 10px 10px 0;
+}
