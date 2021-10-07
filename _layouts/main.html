@@ -9,28 +9,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    {% if page.custom_css %}
-      {% for stylesheet in page.custom_css %}
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ stylesheet }}.scss">
-      {% endfor %}
-    {% endif %}
-  {% include head-custom.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
+
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="words">These are some words</h2>
     </header>
-    
     <main id="content" class="main-content" role="main">
-      
-      <div class="wrapper">
-        <div class="right">Hi, I'm Trent Walraven, and I'm a student majoring in Cyber Security at Iowa State University. </div>
-        <div class="content">
-          {{ content }}
-        </div>
-      </div>
+      {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
