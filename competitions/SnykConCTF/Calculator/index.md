@@ -6,10 +6,10 @@ title: Calculaor (SnykCon CTF 2021)
 
 On the challenge you were given the command ```nc 35.211.207.36 8000``` and when running the command you are greeted with ```CALC-UL8R``` in ASCII art, and an equation with a line after with the variable and an equals sign. After putting in the right value it prints a new equation, and if you give the wrong solution it gives ```ERROR: DOMAIN```.
 
-Correct Answer:
-![Correct Answer](correctAnswer.png)
-Incorrect Answer:
-![ERROR: DOMAIN](ERROR:DOMAIN.png)
+Correct Answer:\
+![Correct Answer](correctAnswer.png)\
+Incorrect Answer:\
+![ERROR: DOMAIN](ERRORDOMAIN.png)\
 
 So my first thought was that you need to solve a bunch of equations, and it will give you the flag as a scripting challenge. So the first thing I did was start trying to figure out a way to parse the equation and solve for the variable that was being asked for. After some googling I found sympy that appearred to do everything I wanted by taking an equation as a string and solving it. Though I did run into some issues where the parser did not like the equal sign, so I split up the line using this code in while loop.
 
