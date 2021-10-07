@@ -8,6 +8,13 @@ body{
     color: white;
 }
 
+.main-content {
+  max-width: 100000rem;
+  padding-left: 24%;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
 /* Makes breakout code blocks have black background */
 .main-content pre {
     background-color: black;
@@ -130,8 +137,8 @@ body{
 .right {
   float: right;
   width: 45%;
-  height: 1000px;
-  background: white;
+  height: auto;
+  background: darkgrey;
   color: black;
   margin: 0;
   padding: 0;
