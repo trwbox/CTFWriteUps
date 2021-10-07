@@ -10,11 +10,8 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-    {% if page.custom_css %}
-      {% for stylesheet in page.custom_css %}
-        <link rel="stylesheet" href="assets/css/main.scss">
-      {% endfor %}
-    {% endif %}
+    <link rel="stylesheet" href="assets/css/main.scss">
+    
     {% include head-custom.html %}
   </head>
   <body>
