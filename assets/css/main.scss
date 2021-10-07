@@ -4,8 +4,15 @@
 
 /* Sets the background of the site and changes the text color */
 body{
-    background-color: blue;
+    background-color: #0e1218;
     color: white;
+}
+
+.main-content {
+  max-width: 100000rem;
+  padding-left: 24%;
+  margin: 0 auto;
+  font-size: 1.1rem;
 }
 
 /* Makes breakout code blocks have black background */

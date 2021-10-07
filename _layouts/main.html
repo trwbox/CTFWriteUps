@@ -21,7 +21,12 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     </header>
     <main id="content" class="main-content" role="main">
-      {{ content }}
+      <div class="wrapper">
+        <div class="right">Hi, I'm Trent Walraven, and I'm a student majoring in Cyber Security at Iowa State University. </div>
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
