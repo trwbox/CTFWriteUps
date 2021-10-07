@@ -117,7 +117,7 @@ Unintentionally, parsing the equation in the way that I did has an error when th
 
 After the flag was printed out ```SNYK{37d779963c037715c02624b6963008f55e92d12e8714a15b7a905c1c997d1afc}```, I copied it and got the points.
 
-At the time I was doing this competition in a workspace with glass windows behind me and my computer screen up on the monitor, so I decided to add some color and flare to script to make it more fun and something that I could have up on the monitor instead of just my desktop background. Which also gave me the opportunity to learn a little about the Colorama library which I used to add color to the output.
+At the time I was doing this competition in a workspace with glass windows behind me and my computer screen up on the monitor, so I decided to add some color and flare to script to make it more fun and something that I could have up on the monitor instead of just my desktop background. Which also gave me the opportunity to learn a little about the Colorama library which I used to add color to the output. This also gave e the opprutunity to make changes so it did not crash at the end, but rather gave a fun message. To do that I just it printing out ```i``` in the loop until the crash and at that value print then exit instead of continuing through the loops
 
 ![withColor](withColor.png)
 ![solvedwithColor](solvedWithColor.png)
