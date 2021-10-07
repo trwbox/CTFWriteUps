@@ -17,7 +17,7 @@ stringIndex = 331
 
 # Set an arbitrary high number to loop through
 for i in range(500):
-     # Initate a boolean for the while loop and a string to store the equation before the equal sign
+    # Initate a boolean for the while loop and a string to store the equation before the equal sign
     randomVal = true
     stringEquation = ''
     while randomVal:
@@ -35,6 +35,7 @@ for i in range(500):
     randomVal = true
     stringEquation2 = ''
     while randomVal:
+        # Takes the character at the stringIndex and sees if it is an equals sign or a new line, if it isn't adds it to the string
         tempChar = stringSocket[stringIndex]
         stringIndex = stringIndex + 1 
         if tempChar == '=':
