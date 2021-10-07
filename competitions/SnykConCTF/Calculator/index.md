@@ -1,3 +1,13 @@
+---
+layout: writeup
+title: Calculaor (SnykCon CTF 2021)
+---
+# Calculator
+
+On the challenge you were given the command ```nc 35.211.207.36 8000``` and when running the command you are greeted with ```CALC-UL8R``` in ASCII art, and an equation with a line after with the variable and an equals sign. After putting in the right value it prints a new equation, and if you give the wrong solution it gives ```ERROR DOMAIN```.
+
+So my first thought was that you need to solve a bunch of equations, and it will give you the flag. So the first thing I did was start trying to figure out a way to parse the equation and solve for the variable that was being asked for.
+
 You need to put in a bunch of calculations to get the flag
 
 Started off with a single equatiosn and how to solve it automatically with sympy, figured that out then moved onto making it interact with more than 1
