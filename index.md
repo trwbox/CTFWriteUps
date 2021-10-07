@@ -1,6 +1,7 @@
 ---
 layout: main
 title: CTFWriteUps
+custom-css: main
 ---
 # Hello
 
