@@ -16,9 +16,12 @@ body {
   font-size: 1.1rem;
 }
 
-.footer, .push {
-  height: 50px;
+footer {
+  bottom: 0;
+  height: 100px;
+  width: 100%;
 }
+
 
 /* Right Box */
 .right {
