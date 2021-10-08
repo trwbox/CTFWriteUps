@@ -96,9 +96,11 @@ body{
   .s,  .sb,  .sc,  .sd,  .s2,  .sh,  .sx,  .s1 {
     color: $string;
   }
+  /* Regex */
   .sr {
     color: $regex;
   }
+  /* Sting escapes */
   .si, .se {
     color: $string-escape;
   }
@@ -124,15 +126,4 @@ body{
     color: $string;
   }
 
-}
-
-
-.right {
-  float: right;
-  width: 45%;
-  height: auto;
-  background: darkgrey;
-  color: black;
-  margin: 0;
-  padding: 0;
 }
