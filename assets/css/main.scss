@@ -8,6 +8,14 @@ body {
     color: white;
 }
 
+footer {
+  bottom: 0;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
 .main-content {
   max-width: 100000rem;
   padding-left: 10%;
