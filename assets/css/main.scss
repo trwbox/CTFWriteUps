@@ -19,11 +19,15 @@ body {
 footer {
   bottom: 0;
   height: 100px;
-  left: 0;
   position: absolute;
-  width: 100%;
+  width: 87%;
 }
 
+.site-footer {
+  padding-top: 7px;
+  margin-top: 0px;
+  border-top: solid 1px #eff0f1;
+}
 
 /* Right Box */
 .right {
