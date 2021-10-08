@@ -6,5 +6,7 @@ title: CTFWriteUps
 
 
 The prior CTFs I've worked on:
-    - [SnyCon CTF (Fetch the Flag)](competitions/SnykConCTF/)
-    - [ALLES!2021 CTF](/competitions/ALLES!2021/)
+
+* [SnyCon CTF (Fetch the Flag)](competitions/SnykConCTF/)
+* [ALLES!2021 CTF](/competitions/ALLES!2021/)
+
