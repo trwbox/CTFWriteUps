@@ -2,11 +2,9 @@
 layout: main
 title: CTFWriteUps
 ---
-# Hello
+# CTF Write Ups by Trent Walraven
 
 
-[This is a test link](/competitions/SnykConCTF/Calculator/)
-
-[This should link to the SnyCon CTF](competitions/SnykConCTF/)
-
-[This should link to my Alles CTF](/competitions/ALLES!2021/)
+The prior CTFs I've worked on:
+    [SnyCon CTF (Fetch the Flag)](competitions/SnykConCTF/)
+    [ALLES!2021 CTF](/competitions/ALLES!2021/)
