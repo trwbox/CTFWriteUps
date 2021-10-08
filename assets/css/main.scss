@@ -16,6 +16,21 @@ body{
   font-size: 1.1rem;
 }
 
+
+/* Right Box */
+.right {
+  float: right;
+  width: 45%;
+  height: auto;
+  background: darkgrey;
+  color: black;
+  margin: 0;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  padding-bottom: 10px;
+}
+
 /* Makes breakout code blocks have black background */
 .main-content pre {
     background-color: black;
@@ -132,15 +147,4 @@ body{
     color: $string;
   }
 
-}
-
-
-.right {
-  float: right;
-  width: 45%;
-  height: auto;
-  background: darkgrey;
-  color: black;
-  margin: 0;
-  padding: 0;
 }
