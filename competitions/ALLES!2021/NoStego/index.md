@@ -60,7 +60,7 @@ print(di_values)
 print(dj_values)
 ```
 
-Using the arrays this put out I was able to simplify the script to just a single important line ```py value += image.getpixel(((i + di_values[k]) % width, (j + dj_values[k] + (i + di_values[k]) // width) % height))```
+Using the arrays this put out I was able to simplify the script to just a single important line ```value += image.getpixel(((i + di_values[k]) % width, (j + dj_values[k] + (i + di_values[k]) // width) % height))```
 
 While just replacing it did not lead to much happening, I decided to flip some of the addition signs and replace them with subtraction signs, which ended up giving me a rather blurry, but identifiable image with the ALLES! logo visible, and a line of text slightly visible below it.
 
