@@ -43,9 +43,17 @@ body {
 
 /* Change how to bottom move up level looks */
 .move-up-level{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
+a.move-up-level:link {
+  color: white;
+}
+
+.site-footer-challenge {
+  font-size: 1.5rem;
+  color: green;
+}
 /* Setting variables used by the next section */
 .highlight {
 
