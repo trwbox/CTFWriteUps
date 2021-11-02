@@ -2,6 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
+/* This is for the main stating pag of the website, does not change anywhere else */
+
 /* Sets the background of the site and changes the text color */
 body {
     background-color: #0e1218;
@@ -39,26 +41,6 @@ body {
 .main-content code {
   background-color: black;
   color: white;
-}
-
-/* Change how to bottom move up level looks */  
-
-.site-footer {
-  .upLevel {
-    color: green;
-  }
-
-  .move-up-level {
-    color: aqua;
-  }
-
-  .site-footer-challenge {
-    color: yellow
-  }
-
-  .challenge {
-    color: brown;
-  }
 }
 
 /* Setting variables used by the next section */
