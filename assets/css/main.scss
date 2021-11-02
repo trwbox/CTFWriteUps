@@ -43,9 +43,12 @@ body {
 
 /* Change how to bottom move up level looks */  
 
-.move-up-level {
-  font-size: 1.5rem;
-  color: green;
+a.upLevel {
+  color:aquamarine;
+}
+
+a.challenge {
+  color:brown;
 }
 
 .site-footer-challenge {
