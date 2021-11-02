@@ -2,6 +2,7 @@
 layout: writeup
 title: TCP Phantom
 ---
+#TCP Phantom
 
 This was a challenge that I created for the Sp00kyCTF, and based it off of a similar challenge to in the ALLES!2021 ctf event. I decided to create this challenge because I thought was really interesting when I solved it the first time, and would be a good beginner challenge since it was going to be students with less experience.
 
@@ -12,7 +13,9 @@ After some time googling during the ALLES ctf, I ended up finding a tool that co
 The description of the challenge gave this with a pair of pyc files attached speakspellCompiled abd speakspellModified.
 
 ```txt
-While working on our haunted house, we were designing a voice synthesizer to add some raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. However, one of our employees received what seems to be a modified version with a different hash and ran it. As far as we can tell there was no functionality changed, but we want your help in figuring out what was added to see how bad we were hacked.
+While working on our haunted house, we were designing a voice synthesizer to add some raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. 
+However, one of our employees received what seems to be a modified version with a different hash and ran it. 
+As far as we can tell there was no functionality changed, but we want your help in figuring out what was added to see how bad we were hacked.
 ```
 
 The first step I would have done facing this was decompile both versions and see if there was something different like a function call, doing this reveals identical <a href="decompiled.py" target="_blank">decompiled</a> python code. The next idea that comes across my mind would be. To take a look for tools that relate to hiding information within python bytecode, like Stegosaurus which would correctly pull the flag out from the modified file. However, this was not the only way to get the string out of the modified file. Since the only changes were the addition of the characters in the dead zones, you could compare the hexdumnps of the two files to find the difference.
@@ -20,7 +23,7 @@ The first step I would have done facing this was decompile both versions and see
 ![HexSolution](xxdOfPythonFilesColored.png)
 Here is a image showing the differences between the two files from xxd after highlighting the differences. The first few characters stand out and show the flag is in plain text, which means you could continue through the file and keep finding the differences.
 
-After seeing it in plain text though, I would not to go through it by hand trying to pick out the idvidual charcters, instead I would use something to highlight the differences to make it much easier to see like I did with the image below using vbindiff.
+After seeing it in plain text though, I would not to go through it by hand trying to pick out the individual characters, instead I would use something to highlight the differences to make it much easier to see like I did with the image below using vbindiff. Getting sp00ky{Hidd3nGh0sts}
 
 ![vbindiff](vbindiffPython.png)
 
