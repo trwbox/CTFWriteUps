@@ -12,4 +12,4 @@ The prior CTFs I've worked on:
 
 Other Cyber Security Related Competition and Activities
 
-* [ISU Cyber Defense Competition Fall 2021](/competitions/CDC/Fall2021)
+[//](* [ISU Cyber Defense Competition Fall 2021](/competitions/CDC/Fall2021))
