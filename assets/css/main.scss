@@ -46,14 +46,15 @@ body {
   font-size: 1.5rem;
 }
 
-a.move-up-level:link {
-  color: white;
-}
-
-.site-footer-challenge {
-  font-size: 1.5rem;
+a.upLevel {
   color: green;
 }
+
+a.challenge {
+  color: purple;  
+}
+
+
 /* Setting variables used by the next section */
 .highlight {
 
