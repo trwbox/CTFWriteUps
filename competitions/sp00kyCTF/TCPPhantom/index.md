@@ -13,9 +13,11 @@ After some time googling during the ALLES ctf, I ended up finding a tool that co
 The description of the challenge gave this with a pair of pyc files attached speakspellCompiled abd speakspellModified.
 
 ```txt
-While working on our haunted house, we were designing a voice synthesizer to add some raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. 
+While working on our haunted house, we were designing a voice synthesizer to add some 
+raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. 
 However, one of our employees received what seems to be a modified version with a different hash and ran it. 
-As far as we can tell there was no functionality changed, but we want your help in figuring out what was added to see how bad we were hacked.
+As far as we can tell there was no functionality changed, 
+but we want your help in figuring out what was added to see how bad we were hacked.
 ```
 
 The first step I would have done facing this was decompile both versions and see if there was something different like a function call, doing this reveals identical <a href="decompiled.py" target="_blank">decompiled</a> python code. The next idea that comes across my mind would be. To take a look for tools that relate to hiding information within python bytecode, like Stegosaurus which would correctly pull the flag out from the modified file. However, this was not the only way to get the string out of the modified file. Since the only changes were the addition of the characters in the dead zones, you could compare the hexdumnps of the two files to find the difference.

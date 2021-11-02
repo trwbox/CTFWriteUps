@@ -2,7 +2,6 @@
 layout: writeup
 title: NoStego (ALLES!2021)
 ---
-
 # NoStego
 
 For the Nostego challenge we were given an image file that at first glance looks like a random mess of greys, a script used to manipulate the original image into what we were given, and a note saying ```It cannot be stego because the source is attached.```

@@ -9,7 +9,11 @@ After some time googling during the ALLES ctf, I ended up finding a tool that co
 The description of the challenge gave this with a pair of pyc files attached speakspellCompiled abd speakspellModified.
 
 ```txt
-While working on our haunted house, we were designing a voice synthesizer to add some raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. However, one of our employees received what seems to be a modified version with a different hash and ran it. As far as we can tell there was no functionality changed, but we want your help in figuring out what was added to see how bad we were hacked.
+While working on our haunted house, we were designing a voice synthesizer to add some 
+raspy voices to the hallways, and for testing we shared the compiled python to save that little bit of bandwidth. 
+However, one of our employees received what seems to be a modified version with a different hash and ran it. 
+As far as we can tell there was no functionality changed, 
+but we want your help in figuring out what was added to see how bad we were hacked.
 ```
 
 The first step I would have done facing this was decompile both versions and see if there was something different like a function call, doing this reveals identical decompiled python code. 
