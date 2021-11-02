@@ -25,8 +25,8 @@ The first step I would have done facing this was decompile both versions and see
 ![HexSolution](xxdOfPythonFilesColored.png)
 Here is a image showing the differences between the two files from xxd after highlighting the differences. The first few characters stand out and show the flag is in plain text, which means you could continue through the file and keep finding the differences.
 
-After seeing it in plain text though, I would not to go through it by hand trying to pick out the individual characters, instead I would use something to highlight the differences to make it much easier to see like I did with the image below using vbindiff. Getting sp00ky{Hidd3nGh0sts}
+After seeing it in plain text though, I would not to go through it by hand trying to pick out the individual characters, instead I would use something to highlight the differences to make it much easier to see like I did with the image below using vbindiff. Getting ```sp00ky{Hidd3nGh0sts}```
 
 ![vbindiff](vbindiffPython.png)
 
-Which gets the flag fairly easily after putting the letters together. Since I did not want this to be a wild goose chase either about trying to find information, I tried to lay some clues inside the file like checking for the python version running it to lead them towards what changed in compiled python in 3.6. This would also be important if they wanted to use Stegosaurus to extract the flag, as it requires python 3.6 to properly extract the flag.
+Which gets the flag fairly easily after putting the letters together. Since I did not want this to be a wild goose chase either about trying to find information, I tried to lay some clues inside the file like checking for the python version while running it, and making a comment it was compiled in python 3.6, to lead them towards what changed in compiled python in 3.6. This would also be important if they wanted to use Stegosaurus to extract the flag, as it requires python 3.6 to properly extract the flag.
