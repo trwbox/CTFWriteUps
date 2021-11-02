@@ -43,18 +43,23 @@ body {
 
 /* Change how to bottom move up level looks */  
 
-a.upLevel {
-  color:aquamarine;
-}
+.site-footer {
+  .upLevel {
+    color: green;
+  }
 
-a.challenge {
-  color:brown;
-}
+  .move-up-level {
+    color: aqua;
+  }
 
-.site-footer-challenge {
-  color: purple;  
-}
+  .site-footer-challenge {
+    color: yellow
+  }
 
+  .challenge {
+    color: brown;
+  }
+}
 
 /* Setting variables used by the next section */
 .highlight {
