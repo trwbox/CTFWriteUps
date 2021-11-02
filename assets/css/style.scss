@@ -19,6 +19,25 @@ body{
   color: white;
 }
 
+/* Change how to bottom move up level looks */  
+.site-footer {
+  .upLevel {
+    color: green;
+  }
+
+  .move-up-level {
+    color: aqua;
+  }
+
+  .site-footer-challenge {
+    color: yellow
+  }
+
+  .challenge {
+    color: brown;
+  }
+}
+
 /* Setting variables used by the next section */
 .highlight {
 
