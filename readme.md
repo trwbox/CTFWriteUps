@@ -1,3 +1,5 @@
-# A place to put my CTF write ups - Trent Walraven (trwbox)
+# CTFWriteups by Trent Walraven (trwbox)
 
-[This is a test link](/competitions/ALLES!2021/NoStego)
+If you are looking for a certain challenge and want to stay on github, look in the competitions folder for the CTF and then the challenge.
+
+Otherwise, I highly recommend visiting the website itself [ctfwriteups.trwbox.com](https://ctfwriteups.trwbox.com) for some better navigation.
