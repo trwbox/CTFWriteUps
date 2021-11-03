@@ -23,7 +23,7 @@ eve:$1$b8YPC.ff$v3xunqpTNTy6IgvJu1yZO1
 
 <details><summary>Hint 1 (Click to see)</summary>
 There are alot of sp00KY! phrases around 7 characters long...
-</details>
+</details><br>
 
 <details><summary>Hint 2 (Click to see)</summary>
 I used to know this guy John who was great with hases like this, he really loved --mask.
