@@ -1,4 +1,4 @@
-# sp00ky ma5k
+# sp00kyma5k
 
 Before the competition there was an announcement that there was going to a be a physical prize for the team that completed the challenge first. Our team before the competition began decided we wanted to win the prize, so as soon as we had enough points immediately bought both hints for a combined 50 points making the challenge worth no points.
 
