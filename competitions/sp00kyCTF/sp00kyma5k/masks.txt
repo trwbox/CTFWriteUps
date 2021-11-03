@@ -1,0 +1,3 @@
+alice:$1$xbl0l1zU$Ur0MUnbko2XgpXhVxZ3430
+bob:$1$slIIXSsY$Jsu0vJERe06py7SmG1rbC1
+eve:$1$b8YPC.ff$v3xunqpTNTy6IgvJu1yZO1
