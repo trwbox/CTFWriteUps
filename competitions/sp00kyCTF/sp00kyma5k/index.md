@@ -9,7 +9,10 @@ Before the competition there was an announcement that there was going to a be a 
 To start of the challenge we were given this hint and a text files called masks
 
 ```txt
-Everyone loves a good sp00KY! mask on halloween but I can never decide between one so I end up buying 7. Anyway, I don't want to wear the same mask as my L33T Hack3r friends but I cant seem to crack the code to figure out what maskes that they are planning to wear. Help me crack the code and you can have a mask from my extensive collection.
+Everyone loves a good sp00KY! mask on halloween but I can never decide between one so I end up buying 7. 
+Anyway, I don't want to wear the same mask as my L33T Hack3r friends 
+but I cant seem to crack the code to figure out what maskes that they are planning to wear. 
+Help me crack the code and you can have a mask from my extensive collection.
 
 note there are three flags in this file but they do not have a flag tag you must append them with an underscore using the following format.
 submit sp00ky{<alicePlaintext>_<bobPlaintext>_<evePlaintext>} 
