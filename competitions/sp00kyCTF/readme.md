@@ -7,3 +7,5 @@
 [Haunted Files 1](HauntedFiles1/index.md) - A challenge about finding a file hidden in a maze of directories and other files.
 
 [Haunted Files 2](HauntedFiles2/index.md) - A continuation of Haunted Files 1, that involves finding a picture with it's extension changed in the same maze of files and directories.
+
+[reallyscaryanimals](reallyscaryanimals/index.md) - A challenge about decrypting a string that was encrypted with RSA given some information
