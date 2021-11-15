@@ -1,6 +1,10 @@
 
 .vscode/*
 .vscode
+
+# Files that are in the directory that do not need to be on github
 CTFWriteups.code-workspace
 index2.md
+
+# This is a line to prevent all the CyberStart stuff from being published currenttly
 /competitions/CyberStart
