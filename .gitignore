@@ -7,4 +7,6 @@ CTFWriteups.code-workspace
 index2.md
 
 # This is a line to prevent all the CyberStart stuff from being published currenttly
-/competitions/CyberStart
+/competitions/CyberStart/MoonBase/
+/competitions/CyberStart/HeadquartersBase/
+/competitions/CyberStart/ForensicsBase/
