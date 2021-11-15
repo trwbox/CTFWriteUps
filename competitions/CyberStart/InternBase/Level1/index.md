@@ -1,3 +1,5 @@
+# Level 1 Challenges
+
 [Challenge 1](Challenge1/index.md)
 [Challenge 2](Challenge2/index.md)
 [Challenge 3](Challenge3/index.md)
