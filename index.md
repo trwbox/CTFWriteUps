@@ -12,5 +12,9 @@ The prior CTFs I've worked on:
 
 Other Cyber Security Related Competition and Activities
 
-* [Cyber Start](/competitions/CyberStart/) - Currently only the beginning practice section while the rest is being worked through
+* [Cyber Start](/competitions/CyberStart/) - As the challenges are still ongoing, I'm only keeping up the introduction base since they have published answers elsewhere.
+
+Other non Cyber Security Related Activities
+
+* [Emergency Management Honors Seminar](https://spark.adobe.com/page/4C9XxCZ951Cca/) - An honors seminar I am taking this semester, about preparing and responding to emergencies focusing on mass-casualty incidents where the resources available are far lower than what is needed to adequately treat everyone. This link is an article for the mock tornado that we recently has the ooppurinuty to participate in to test the knowledge we have gained. 
   
