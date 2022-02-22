@@ -12,5 +12,5 @@ An intermediary between exact labs.
 [Lab 8 - Traditional Web Vulnerabilities](Lab8/index.md)\
 [Lab 9 - Modern Web Vulnerabilities](Lab9/index.md)\
 [Lab 10 - SSH / UFW / VPN](Lab10/index.md)\
-[Lab 11 - Analysing Log Files](Lab11/index.md)\
-[Lab 12 - Capstone](Lab12/index.md)\
+[Lab 11 - Analyzing Log Files](Lab11/index.md)\
+[Lab 12 - Capstone](Lab12/index.md)

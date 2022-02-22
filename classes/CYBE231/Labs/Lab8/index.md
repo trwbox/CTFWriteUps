@@ -1,7 +1,8 @@
 ---
 layout: labs
-title: CYBE230 Lab 11 - Analysing Log Files
+title: CYBE231 Lab 8 - 
 ---
-# CYBE230 Lab 11 - Analysing Log Files
+# CYBE231 Lab 8 - 
 
 This is currently a work in progress, check back later for updates.
+

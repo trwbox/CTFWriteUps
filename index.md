@@ -12,7 +12,7 @@ The prior CTFs I've worked on:
 
 Classes:
 
-* [CYBE230](/projects/CYBE230/index.md)
+* [CYBE230](/classes/CYBE230/index.md) - Introduction to Cybersecurity Fundamentals
 
 Other non Cyber Security Related Activities
 
