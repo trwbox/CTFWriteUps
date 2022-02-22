@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 3 - Accounts, Permissions, and Network Tools
+title: Accounts, Permissions, and Network Tools
 ---
 # CYBE230 Lab 3 - Accounts, Permissions, and Network Tools
 

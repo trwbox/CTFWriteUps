@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 2 - Server Install and Linux File System
+title: Server Install and Linux File System
 ---
 # CYBE230 Lab 2 - Server Install and Linux File System
 

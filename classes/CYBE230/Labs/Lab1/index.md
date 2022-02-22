@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 1 - Installing VMs
+title: Installing VMs
 ---
 # CYBE230 Lab 1 - Installing VMs
 

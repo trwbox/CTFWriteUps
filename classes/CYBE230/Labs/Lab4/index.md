@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 4 - Network Firewalls
+title: Network Firewalls
 ---
 # CYBE230 Lab 4 - Network Firewalls
 
