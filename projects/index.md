@@ -1,3 +1,3 @@
-Classes 
+# Classes
 
-[CPRE 230](CPRE230/index.md) - Introduction to Cybersecurity Fundamentals
+[CYBE 230](CYBE230/index.md) - Introduction to Cybersecurity Fundamentals

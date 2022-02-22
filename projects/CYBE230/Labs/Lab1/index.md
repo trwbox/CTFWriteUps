@@ -1,3 +1,7 @@
+---
+layout: labs
+title: CYBE230 Lab 1 - Installing VMs
+---
 # CYBE230 Lab 1 - Installing VMs
 
 This lab helped walks us through creating and installing a virtual machine in the "ISEAGE" environment. This ISEAGE environment is a mock internet hosted with the help of VMWare ESXI. This environment allows our systems to be tested in isolation from the regular internet with no fear of an outside attacker, and having things like DNS, and "public" facing IPs available to all students.
