@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 5 - Packages and DNS
+title: Packages and DNS
 ---
 # Lab 5 - Packages and DNS
 

@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 10 - SSH / UFW / VPN
+title: SSH / UFW / VPN
 ---
 # CYBE230 Lab 10 - SSH / UFW / VPN
 

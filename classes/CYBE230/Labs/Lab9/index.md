@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 9 - Modern Web Vulnerabilities
+title: Modern Web Vulnerabilities
 ---
 # CYBE230 Lab 9 - Modern Web Vulnerabilities
 

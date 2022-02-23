@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 6 - Install OpenLDAP
+title: Install OpenLDAP
 ---
 # CYBE230 Lab 6 - Install OpenLDAP
 

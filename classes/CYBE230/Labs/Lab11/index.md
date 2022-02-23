@@ -1,6 +1,6 @@
 ---
 layout: labs
-title: CYBE230 Lab 11 - Analyzing Log Files
+title: Analyzing Log Files
 ---
 # CYBE230 Lab 11 - Analyzing Log Files
 
