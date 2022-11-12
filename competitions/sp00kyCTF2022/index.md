@@ -17,7 +17,7 @@ title: CTFWriteUps
 
 ## Welcome to the Real World
 
-- [Pulling passwords from thin air](RealWorld/PPullingPasswordFromThinAir/) - Passwords here, passwords there, passwords everywhere
+- [Pulling passwords from thin air](RealWorld/PullingPasswordFromThinAir/) - Passwords here, passwords there, passwords everywhere
 - [IT'S IN THE AIR?!?!](RealWorld/ITSInTheAir/) - Don't you just hate it when you accidentally intercept plaintext passwords?
 - [Router! I barely know her!](RealWorld/RouterIBarelyKnowHer/) - You can try hold me back! ... I thought you would try harder than that.
 
