@@ -12,5 +12,6 @@ index2.md
 /competitions/CyberStart/ForensicsBase/
 /competitions/CyberStart/InternBase/
 
-# Incomplete
-/classes/CYBE231/
+# Prevent a built version of the site from being published
+_site/
+.jekyll-cache/

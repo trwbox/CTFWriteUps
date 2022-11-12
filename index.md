@@ -6,7 +6,8 @@ title: CTFWriteUps
 
 The prior CTFs I've worked on:
 
-* [sp00kyCTF](/competitions/sp00kyCTF/)
+* [sp00kyCTF (2022)](/competitions/sp00kyCTF2022/)
+* [sp00kyCTF (2021)](/competitions/sp00kyCTF2021/)
 * [SnyCon CTF (Fetch the Flag)](/competitions/SnykConCTF/)
 * [ALLES!2021 CTF](/competitions/ALLES!2021/)
 
