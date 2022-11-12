@@ -12,13 +12,21 @@ Value: 200 points
 Included files: [Location2.jpg](Location2.jpg)
 
 Hints
-| Cost | Hint |
-|------|-------------|
-| 25 | <details> <summary> Click to view hint </summary> At least we can tell they didn't leave the country in those 25 minutes with the flag in the background </details> |
-| 20 | <details> <summary> Click to view hint </summary> That's a really pretty color blue on the cart return. I wonder where I have seen that color before. </details> |
-| 25 | <details> <summary> Click to view hint </summary> Weird, I can see yellow parking lines when I would expect white ones for this parking lot. I wonder if that would be of help? </details> |
-| 50 | <details> <summary> Click to view hint </summary> They sent the image only 25 minutes after the first, they can't have gotten very far. Maybe a 20 minute drive from the last picture? </details> |
-| 30 | <details> <summary> Click to view hint </summary> What's that thing in the dead-zone mirror? Big black fences, piles of materials, maybe some plants. Seems rather permanent with its size. </details> |
+
+Hint 1: Cost 25 points
+<details> <summary> Click to view hint </summary> At least we can tell they didn't leave the country in those 25 minutes with the flag in the background </details>
+
+Hint 2: Cost 20 points
+<details> <summary> Click to view hint </summary> That's a really pretty color blue on the cart return. I wonder where I have seen that color before. </details>
+
+Hint 3: Cost 25 points
+<details> <summary> Click to view hint </summary> Weird, I can see yellow parking lines when I would expect white ones for this parking lot. I wonder if that would be of help? </details>
+
+Hint 4: Cost 50 points
+<details> <summary> Click to view hint </summary> They sent the image only 25 minutes after the first, they can't have gotten very far. Maybe a 20 minute drive from the last picture? </details>
+
+Hint 5: Cost 30 points
+<details> <summary> Click to view hint </summary> What's that thing in the dead-zone mirror? Big black fences, piles of materials, maybe some plants. Seems rather permanent with its size. </details?
 
 ## Solution
 

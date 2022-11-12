@@ -18,9 +18,9 @@ hint1 will give you the IP of the camera
 Value: 100 points
 
 Hints
-| Cost | Hint |
-|------|-------------|
-| 10 | <details> <summary> Click to view hint </summary> the camera's IP is 10.10.10.104 </details> |
+
+Hint 1: Cost 10 points
+<details> <summary> Click to view hint </summary> the camera's IP is 10.10.10.104 </details>
 
 ## Solution
 

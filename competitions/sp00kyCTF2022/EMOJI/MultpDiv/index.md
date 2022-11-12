@@ -45,6 +45,6 @@ After solving 1000 problems, you got the flag:
 
 ## Extra
 
-Something I did not account for when making this challenge, was the random number generate picking 0, then trying to divide by zero. So there is a potential that you could get a division by zero, and the server would throw an error, and crash. This would cause the script to fail, and you would not get the flag. This was realized with about 15 minutes left in the competition when people were hitting it hard, so the fix restart it. 
+Something I did not account for when making this challenge, was the random number generate picking 0, then trying to divide by zero. So there is a potential that you could get a division by zero, and the server would throw an error, and crash. This would cause the script to fail, and you would not get the flag. This was realized with about 15 minutes left in the competition when people were hitting it hard, so the fix restart it.
 
-A server has been included if you want to try yourself [here](server.py). Note: it has the same issue listed above,and may crash if you are unlucky.
+A server has been included if you want to try yourself [here](server.py). Note: it has the same issue listed above, and may crash if you are unlucky.
