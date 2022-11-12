@@ -26,7 +26,7 @@ Hint 4: Cost 50 points
 <details> <summary> Click to view hint </summary> They sent the image only 25 minutes after the first, they can't have gotten very far. Maybe a 20 minute drive from the last picture? </details>
 
 Hint 5: Cost 30 points
-<details> <summary> Click to view hint </summary> What's that thing in the dead-zone mirror? Big black fences, piles of materials, maybe some plants. Seems rather permanent with its size. </details?
+<details> <summary> Click to view hint </summary> What's that thing in the dead-zone mirror? Big black fences, piles of materials, maybe some plants. Seems rather permanent with its size. </details>
 
 ## Solution
 
