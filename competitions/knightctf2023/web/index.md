@@ -4,4 +4,4 @@
 
 - [GETMe](./GETMe/index.md)
 
-## [All Challenges|../index.md
+## [All Challenges|(../index.md)
