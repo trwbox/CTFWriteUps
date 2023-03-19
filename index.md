@@ -6,6 +6,7 @@ title: CTFWriteUps
 
 The prior CTFs I've worked on:
 
+* [MHSCTF (2023)](/competitions/mhsctf2023/)
 * [KnightCTF (2023)](/competitions/knightctf2023/)
 * [sp00kyCTF (2022)](/competitions/sp00kyCTF2022/)
 * [sp00kyCTF (2021)](/competitions/sp00kyCTF2021/)
